@@ -1,0 +1,55 @@
+Params: OrderedDict([('border_count', 37), ('depth', 4), ('iterations', 340), ('l2_leaf_reg', 3.2242103207202395), ('learning_rate', 0.0917560495928098)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 392), ('depth', 7), ('iterations', 699), ('l2_leaf_reg', 1.5066041368715242), ('learning_rate', 0.03516871124089703)]), Mean CV Score: 0.864
+Params: OrderedDict([('border_count', 51), ('depth', 7), ('iterations', 676), ('l2_leaf_reg', 3.4959224378939564), ('learning_rate', 0.09332762252975525)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 128), ('depth', 5), ('iterations', 661), ('l2_leaf_reg', 3.792291004385049), ('learning_rate', 0.07551206566227286)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 188), ('depth', 3), ('iterations', 615), ('l2_leaf_reg', 4.177290180969347), ('learning_rate', 0.08479708383196487)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 90), ('depth', 8), ('iterations', 908), ('l2_leaf_reg', 0.37923627111909947), ('learning_rate', 0.039331233502457416)]), Mean CV Score: 0.864
+Params: OrderedDict([('border_count', 283), ('depth', 7), ('iterations', 647), ('l2_leaf_reg', 3.930372417435432), ('learning_rate', 0.013369452443760237)]), Mean CV Score: 0.861
+Params: OrderedDict([('border_count', 288), ('depth', 5), ('iterations', 736), ('l2_leaf_reg', 2.921748487501086), ('learning_rate', 0.08292134926333554)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 230), ('depth', 9), ('iterations', 781), ('l2_leaf_reg', 0.08872825789226603), ('learning_rate', 0.013529726980981722)]), Mean CV Score: 0.862
+Params: OrderedDict([('border_count', 152), ('depth', 8), ('iterations', 927), ('l2_leaf_reg', 4.604888282201014), ('learning_rate', 0.06883875492473365)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 231), ('depth', 3), ('iterations', 962), ('l2_leaf_reg', 3.9672317856956214), ('learning_rate', 0.05120163207240236)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 465), ('depth', 10), ('iterations', 310), ('l2_leaf_reg', 3.4130134852723666), ('learning_rate', 0.05369015249521267)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 494), ('depth', 6), ('iterations', 609), ('l2_leaf_reg', 0.0), ('learning_rate', 0.07624035821936294)]), Mean CV Score: 0.862
+Params: OrderedDict([('border_count', 326), ('depth', 7), ('iterations', 845), ('l2_leaf_reg', 2.0903017445642194), ('learning_rate', 0.09525119859016164)]), Mean CV Score: 0.864
+Params: OrderedDict([('border_count', 276), ('depth', 6), ('iterations', 300), ('l2_leaf_reg', 3.991728157612755), ('learning_rate', 0.0992224411783221)]), Mean CV Score: 0.864
+Params: OrderedDict([('border_count', 312), ('depth', 4), ('iterations', 884), ('l2_leaf_reg', 2.645558663636152), ('learning_rate', 0.07130302349148125)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 274), ('depth', 8), ('iterations', 1000), ('l2_leaf_reg', 0.8425169173642673), ('learning_rate', 0.08331714434874667)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 512), ('depth', 7), ('iterations', 1000), ('l2_leaf_reg', 3.2199731921059764), ('learning_rate', 0.07960636492784615)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 32), ('depth', 10), ('iterations', 1000), ('l2_leaf_reg', 2.9310349729796785), ('learning_rate', 0.07911256777637933)]), Mean CV Score: 0.857
+Params: OrderedDict([('border_count', 161), ('depth', 8), ('iterations', 301), ('l2_leaf_reg', 0.9455262710139387), ('learning_rate', 0.08520535719541035)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 423), ('depth', 5), ('iterations', 954), ('l2_leaf_reg', 4.290653253116544), ('learning_rate', 0.09483895281552224)]), Mean CV Score: 0.866
+Params: OrderedDict([('border_count', 510), ('depth', 9), ('iterations', 367), ('l2_leaf_reg', 4.810724832853294), ('learning_rate', 0.0778655296960978)]), Mean CV Score: 0.864
+Params: OrderedDict([('border_count', 42), ('depth', 6), ('iterations', 625), ('l2_leaf_reg', 0.04779296595031458), ('learning_rate', 0.021814941045128364)]), Mean CV Score: 0.862
+Params: OrderedDict([('border_count', 491), ('depth', 5), ('iterations', 405), ('l2_leaf_reg', 0.15764986032946296), ('learning_rate', 0.012917135859653893)]), Mean CV Score: 0.856
+Params: OrderedDict([('border_count', 32), ('depth', 6), ('iterations', 881), ('l2_leaf_reg', 5.0), ('learning_rate', 0.05423723382578938)]), Mean CV Score: 0.864
+Params: OrderedDict([('border_count', 509), ('depth', 10), ('iterations', 960), ('l2_leaf_reg', 4.274632633496365), ('learning_rate', 0.03822930185789595)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 363), ('depth', 7), ('iterations', 1000), ('l2_leaf_reg', 5.0), ('learning_rate', 0.05413696100255443)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 32), ('depth', 3), ('iterations', 1000), ('l2_leaf_reg', 0.0), ('learning_rate', 0.1)]), Mean CV Score: 0.864
+Params: OrderedDict([('border_count', 36), ('depth', 3), ('iterations', 977), ('l2_leaf_reg', 4.874213609241243), ('learning_rate', 0.012866700502487827)]), Mean CV Score: 0.858
+Params: OrderedDict([('border_count', 35), ('depth', 10), ('iterations', 604), ('l2_leaf_reg', 4.601012282030592), ('learning_rate', 0.014148468659864884)]), Mean CV Score: 0.862
+Params: OrderedDict([('border_count', 481), ('depth', 3), ('iterations', 464), ('l2_leaf_reg', 0.05515754518471306), ('learning_rate', 0.09251771222147281)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 512), ('depth', 8), ('iterations', 300), ('l2_leaf_reg', 5.0), ('learning_rate', 0.04759720581401851)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 52), ('depth', 5), ('iterations', 1000), ('l2_leaf_reg', 5.0), ('learning_rate', 0.07844566396684793)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 488), ('depth', 10), ('iterations', 316), ('l2_leaf_reg', 3.313909552053604), ('learning_rate', 0.014315949533235721)]), Mean CV Score: 0.860
+Params: OrderedDict([('border_count', 36), ('depth', 3), ('iterations', 352), ('l2_leaf_reg', 0.25630270769441915), ('learning_rate', 0.04663668339709967)]), Mean CV Score: 0.859
+Params: OrderedDict([('border_count', 151), ('depth', 10), ('iterations', 327), ('l2_leaf_reg', 2.7838145011882465), ('learning_rate', 0.09736590784627493)]), Mean CV Score: 0.862
+Params: OrderedDict([('border_count', 280), ('depth', 6), ('iterations', 992), ('l2_leaf_reg', 1.5144735327578216), ('learning_rate', 0.014276504518947016)]), Mean CV Score: 0.862
+Params: OrderedDict([('border_count', 159), ('depth', 6), ('iterations', 1000), ('l2_leaf_reg', 5.0), ('learning_rate', 0.1)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 278), ('depth', 10), ('iterations', 980), ('l2_leaf_reg', 0.06567656962433334), ('learning_rate', 0.012668728881553147)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 367), ('depth', 5), ('iterations', 719), ('l2_leaf_reg', 5.0), ('learning_rate', 0.1)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 68), ('depth', 5), ('iterations', 898), ('l2_leaf_reg', 0.0), ('learning_rate', 0.1)]), Mean CV Score: 0.862
+Params: OrderedDict([('border_count', 52), ('depth', 9), ('iterations', 320), ('l2_leaf_reg', 4.825287758067745), ('learning_rate', 0.0488154834669567)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 509), ('depth', 10), ('iterations', 584), ('l2_leaf_reg', 0.13744795393107803), ('learning_rate', 0.09916046442047774)]), Mean CV Score: 0.855
+Params: OrderedDict([('border_count', 505), ('depth', 9), ('iterations', 982), ('l2_leaf_reg', 4.5044777712451465), ('learning_rate', 0.01137318955289977)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 471), ('depth', 3), ('iterations', 1000), ('l2_leaf_reg', 5.0), ('learning_rate', 0.1)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 509), ('depth', 3), ('iterations', 959), ('l2_leaf_reg', 0.5274605181656701), ('learning_rate', 0.04195464505675163)]), Mean CV Score: 0.863
+Params: OrderedDict([('border_count', 119), ('depth', 3), ('iterations', 323), ('l2_leaf_reg', 4.329083138602656), ('learning_rate', 0.010567047705877316)]), Mean CV Score: 0.845
+Params: OrderedDict([('border_count', 245), ('depth', 8), ('iterations', 1000), ('l2_leaf_reg', 5.0), ('learning_rate', 0.041429056917785756)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 512), ('depth', 7), ('iterations', 1000), ('l2_leaf_reg', 1.625702479855875), ('learning_rate', 0.05470327579667242)]), Mean CV Score: 0.865
+Params: OrderedDict([('border_count', 512), ('depth', 8), ('iterations', 809), ('l2_leaf_reg', 4.282546583765511), ('learning_rate', 0.04667758833722779)]), Mean CV Score: 0.865
+
+Best Parameters:
+OrderedDict([('border_count', 423), ('depth', 5), ('iterations', 954), ('l2_leaf_reg', 4.290653253116544), ('learning_rate', 0.09483895281552224)])
+Best Score: 0.866
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------

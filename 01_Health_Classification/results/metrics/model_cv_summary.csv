@@ -1,0 +1,4 @@
+model,cv_roc_auc_rounded,cv_folds,search,source_log
+XGBoost,0.868,3,BayesSearchCV,xgb_bayesver2.0.txt
+LightGBM,0.866,3,BayesSearchCV,lgbm_bayesver2.0.txt
+CatBoost,0.866,3,BayesSearchCV,catboost_bayesver2.0.txt

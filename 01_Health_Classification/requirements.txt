@@ -1,0 +1,13 @@
+# Notebook analysis / plotting
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+# Original 2024 model experiments
+xgboost
+lightgbm
+catboost
+scikit-optimize
+scipy
